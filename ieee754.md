@@ -1,0 +1,1 @@
+- https://discuss.jsonapi.org/t/representing-price-in-response-and-request/1423/2
