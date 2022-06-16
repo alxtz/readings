@@ -1,5 +1,5 @@
 - https://medusajs.com/blog/idempotency-nodejs-express-open-source/
-
+  - https://github.com/alxtz/obs-vault/blob/main/idem/index.md
 - https://www.lpalmieri.com/posts/idempotency/
 
 - https://multithreaded.stitchfix.com/blog/2017/06/26/patterns-of-soa-idempotency-key/
